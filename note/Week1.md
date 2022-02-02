@@ -1,9 +1,9 @@
 # Week 1: JavaFX Basis
 
-<p align="center" >
-  02/02/2022
-  <a style="text-decoration:none; color: black;" href="https://github.com/KevinZonda">KevinZonda</a>
-</p>
+<center>
+<span>02/02/2022</span>
+<a style="text-decoration:none; color: black;" href="https://github.com/KevinZonda">KevinZonda</a>
+</center>
 
 ## Definition
 

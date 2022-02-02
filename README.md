@@ -1,9 +1,10 @@
 # Note for Module 06-34252 (2021)
 
-<p align="center" >
-  2022
-  <a style="text-decoration:none; color: black;" href="https://github.com/KevinZonda">KevinZonda</a>
-</p>
+<center>
+<span>2022</span>
+<a style="text-decoration:none; color: black;" href="https://github.com/KevinZonda">KevinZonda</a>
+</center>
+
 
 > Full Stack Application Development  
 > Level 1/C  
