@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<GridPane alignment="CENTER"
+          vgap="20"
+          hgap="20"
+          xmlns:fx="http://javafx.com/fxml"
+          fx:controller="com.kevinzonda.ex1.Controller">
+
+
+    <Label text="Please enter your name to win a prize" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+
+    <TextField GridPane.rowIndex="1" GridPane.columnIndex="0" fx:id="txtName"/>
+
+    <Button text="Submit" onAction="#onSubmitClicked" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+    <Button text="Cancel" GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+
+</GridPane>
