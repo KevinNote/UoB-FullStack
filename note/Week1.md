@@ -18,7 +18,7 @@ A GUI application of JavaFX has following components:
   It represents the place which contains controls (i.e., without the control bar which
   is at the top of window and usually has minimum, maximum and close action buttons)
 - **Control/Widget**  
-  e.g. TextBox, CheckBpx, ListBox, etc.
+  e.g. TextBox, CheckBox, ListBox, etc.
 
 ## MVC
 
