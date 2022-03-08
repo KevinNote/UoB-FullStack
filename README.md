@@ -14,3 +14,5 @@
 
 - JavaFX
   - [Basis](note/JavaFX/basics.md)
+- Thread
+  - [Basis](note/Thread/basics.md)
