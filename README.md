@@ -12,4 +12,5 @@
 
 ## Content
 
-- [Week 1: JavaFX Basis](note/Week1.md)
+- JavaFX
+  - [Basis](note/JavaFX/basics.md)

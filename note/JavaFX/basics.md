@@ -1,4 +1,4 @@
-# Week 1: JavaFX Basis
+# JavaFX: Basis
 
 <center>
 <span>02/02/2022</span>
